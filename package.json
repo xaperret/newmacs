@@ -1,0 +1,23 @@
+{
+  "name": "newmacs",
+  "version": "1.0.0",
+  "description": "Electron & Typescript based text editor inspired by emacs",
+  "main": "main.ts",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xaperret/newmacs.git"
+  },
+  "author": "Xavier Perret",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/xaperret/newmacs/issues"
+  },
+  "homepage": "https://github.com/xaperret/newmacs#readme",
+  "dependencies": {
+    "electron": "^19.0.3"
+  }
+}
